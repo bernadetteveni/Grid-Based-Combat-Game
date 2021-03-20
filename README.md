@@ -1,4 +1,4 @@
-# Grid-Based-Combat-Game
+# Grid Based Combat Game
 
 ## Objective 
 A C++ program that implements a 'Walk-To' algorithm that allows a monster in a grid-based computer game to walk to the target (player's) position. 
