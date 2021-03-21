@@ -2,7 +2,6 @@
 //  Vector2.cpp
 //
 //  Bernadette Veninata
-//  SID: 200259971
 //
 
 #include "Vector2.h"
