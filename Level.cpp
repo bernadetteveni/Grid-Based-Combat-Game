@@ -1,7 +1,6 @@
 //
 //  Level.cpp
 //  Bernadette Veninata
-//  SID: 200259971
 //
 //  Implementation of the Level type
 
