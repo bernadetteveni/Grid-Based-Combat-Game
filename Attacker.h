@@ -1,7 +1,6 @@
 //
 //  Attacker.h
-//  CS_Assign_6
-//
+//  Bernadette Veninata
 
 
 #ifndef Attacker_h
