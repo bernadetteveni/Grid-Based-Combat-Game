@@ -1,7 +1,6 @@
 //
-//  Drone.cpp
-//  CS_Assign_6
-//
+// Drone.cpp
+// Bernadette Veninata
 //
 
 #include "Drone.h"
