@@ -1,6 +1,6 @@
 //
 //  Drone.h
-//  CS_Assign_6
+//  Bernadette Veninata
 //
 
 
