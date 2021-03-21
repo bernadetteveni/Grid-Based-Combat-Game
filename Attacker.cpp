@@ -1,6 +1,6 @@
 //
 //  Attacker.cpp
-//  CS_Assign_6
+//  Bernadette Veninata
 //
 
 #include "Attacker.h"
