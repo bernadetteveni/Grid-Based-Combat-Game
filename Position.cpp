@@ -1,7 +1,6 @@
 //
-// Position.cpp
+//  Position.cpp
 //  Bernadette Veninata
-//  SID: 200259971
 //
 
 #include <cmath>
