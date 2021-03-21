@@ -2,7 +2,7 @@
 //  Player.cpp
 //
 //  Bernadette Veninata
-//  SID: 200259971
+//
 
 #include <cassert>
 
