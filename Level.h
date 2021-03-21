@@ -1,9 +1,8 @@
 //
 //  Level.h
-//
 //  Bernadette Veninata
-//  SID: 200259971
-//This module provides a class "Level" for storing integer of winningPosition. An array of the rows and columns in a level was added as a private class member.
+//
+// This module provides a class "Level" for storing integer of winningPosition. An array of the rows and columns in a level was added as a private class member.
 //
 
 #ifndef Level_h
