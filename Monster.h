@@ -1,10 +1,10 @@
 //
 //  Monster.h
 //  Bernadette Veninata
-//  SID: 200259971
-//  Encapsulates a module to represent an (enemy) monster in a
-//    grid-based game.
 //
+//  Encapsulates a module to represent an (enemy) monster in a grid-based game.
+//
+
 #ifndef Monster_h
 #define Monster_h
 
