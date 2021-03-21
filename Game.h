@@ -1,9 +1,8 @@
 //
 //  Game.h
 //  Bernadette Veninata
-//  SID: 200259971
 //
-//This module provides a class "Game" for storing integers of level, player, and monsterCount. An array to count the number of monsters was added as a private class member.
+// This module provides a class "Game" for storing integers of level, player, and monsterCount. An array to count the number of monsters was added as a private class member.
 
 
 
