@@ -1,10 +1,7 @@
 ////
-////  MainD.cpp
+////  main.cpp
 ////
 ////  A module to test the Vector2 template class.
-////
-////  This file is required for Part D of Assignment 6.  Do not
-////    modify this file.
 ////
 //
 //// standard #includes
