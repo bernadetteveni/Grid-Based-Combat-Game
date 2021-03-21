@@ -1,5 +1,5 @@
 ////
-////  main.cpp
+////  MainA.cpp
 ////
 ////  A module to test the Vector2 template class.
 ////
@@ -158,10 +158,8 @@
 //}
 
 //
-//  MainE.cpp
-//
-//  A variant on MainC.cpp program from Assignment 5.  This
-//    version uses Vector2<float>s instead of Vector2s.
+//  MainB.cpp
+//  This version uses Vector2<float>s instead of Vector2s.
 //
 
 // standard includes
