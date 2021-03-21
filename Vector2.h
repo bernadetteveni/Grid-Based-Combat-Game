@@ -1,7 +1,8 @@
 //
 //  Vector2.h
+//
 //  Bernadette Veninata
-//  SID: 200259971
+//
 
 #ifndef Vector2_h
 #define Vector2_h
