@@ -1,9 +1,9 @@
 //
 // Position.h
-//  Bernadette Veninata
-//  SID: 200259971
+// Bernadette Veninata
+//
 // A module to represent a position in a 2D grid-based game.
-//This module defines a struct Position for storing integers for row and column. A position value is maintained by each instance of the Position type. Users may compare and calculate the values of the position.
+// This module defines a struct Position for storing integers for row and column. A position value is maintained by each instance of the Position type. Users may compare and calculate the values of the position.
 
 
 
